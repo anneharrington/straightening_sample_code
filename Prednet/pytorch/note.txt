@@ -1,0 +1,1 @@
+Files for training the pytorch version of PredNet.  Beware that newer versions of pytorch sometime mess up the dimensions. Source: https://github.com/zcrwind/PredNet_pytorch
