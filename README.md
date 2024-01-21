@@ -1,2 +1,1 @@
-# PredStraightening
-Applying Perceptual Straightening to PredNet
+# Very Rough code from "Exploring Perceptual Straightness in Learned Visual Representations"
